@@ -1,5 +1,7 @@
 # DataSkewProfiler
 
+![GitHub](https://img.shields.io/github/license/harshhacks/DataSkewProfiler?style=plastic)
+
 Data Skew Profiler for HPCC Systems
 
 ## Project Overview
